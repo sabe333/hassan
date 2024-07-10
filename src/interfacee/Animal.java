@@ -3,7 +3,7 @@ package interfacee;
 public interface Animal {
 
 
-    public void  makeSound();
+    void  makeSound();
 
 
     void eat();
